@@ -37,7 +37,7 @@
         },
         "PrimaryRG": {
             "type": "string",
-            "defaultValue": "ContosoRG1",
+            "defaultValue": "Contoso-RG1",
             "metadata": {
                 "description": "Resource group name of the primary region (must already exist)"
             }
